@@ -1,0 +1,14 @@
+
+//Use this file to write statements ,type code to execute here
+//run shell.py file giving input as ---> RUN("new.SCREAM")
+
+LET  A= 5
+LET  B= 10
+PRINT (A+B); // prints '15'
+PRINT (A*B); // prints '50'
+PRINT (B/A); // prints '2'
+PRINT (B-A) ;// prints '5'
+PRINT (B%A);
+IF (5>3) BEGIN
+PRINT ("3 IS GREATER THAN 5")
+END
